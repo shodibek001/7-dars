@@ -1,0 +1,382 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.ota {
+    width: 1920px;
+    height: 3876px;
+    margin: 0 auto;
+
+}
+
+.box {
+    width: 1920px;
+    height: 485px;
+    background-color: #095ACD;
+    background-color: #006AFF;
+    background: linear-gradient(#095ACD 100%, #006AFF 100%);
+
+
+
+}
+
+.row {
+    width: 1920px;
+    height: 96px;
+
+
+
+}
+
+.rasmuchun {
+    width: 108px;
+    height: 43px;
+    background-image: url('../img/1\ \(2\).png');
+    position: relative;
+    top: 25px;
+    left: 318px;
+
+}
+
+
+.fa-magnifying-glass {
+    width: 24px;
+    height: 24px;
+    position: relative;
+    top: -15px;
+    left: 430px;
+    padding: 3px;
+    color: white;
+
+
+}
+
+.aaaa p {
+    width: 34px;
+    height: 17px;
+    position: relative;
+    top: -50px;
+    left: 780px;
+    color: white;
+
+}
+
+.sss p {
+    width: 105px;
+    height: 21px;
+    position: relative;
+    top: -65px;
+    left: 1109px;
+    color: white;
+    cursor: pointer;
+
+}
+
+.lkgfggf p {
+    width: 126px;
+    height: 21px;
+    position: relative;
+    top: -85px;
+    left: 1254px;
+    color: white;
+    cursor: pointer;
+}
+
+.m {
+    width: 160px;
+    height: 51px;
+    position: relative;
+    top: -120px;
+    left: 1443px;
+    padding: 15px, 20px, 15px, 20px;
+    border-radius: 4px;
+    gap: 5px;
+    background: #FE8B37;
+    cursor: pointer;
+
+
+}
+
+.fa-plus {
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: 18px;
+    left: 20px;
+    border: 2px;
+    color: white;
+
+}
+
+.m p {
+    width: 95px;
+    height: 21px;
+    position: relative;
+    left: 45px;
+    color: white;
+}
+
+.box1 {
+    width: 1280px;
+    height: 100px;
+    position: relative;
+    top: 340px;
+    left: 320px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0px 1px 1px 1px gainsboro;
+
+
+}
+
+.box2 a {
+    width: 154px;
+    height: 100px;
+    background-color: blue;
+    position: absolute;
+    left: 1127px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.box2 p {
+    position: relative;
+    top: 35px;
+}
+
+.box3 {
+    width: 1128px;
+    height: 100px;
+    position: relative;
+    left: -2px;
+    /* background-color:red ; */
+    display: flex;
+    gap: 279px;
+
+}
+
+.box4 {
+    width: 1px;
+    height: 100px;
+    position: relative;
+    left: 282px;
+    border: 1px solid gainsboro;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+
+#as {
+    width: 24px;
+    height: 24px;
+    position: relative;
+    top: 40px;
+    left: -230px;
+    padding: 3px;
+    color: #095ACD;
+
+}
+
+.qob {
+    width: 840px;
+    height: 158px;
+    position: relative;
+    top: -20px;
+    left: 540px;
+    font-family: SF Pro Display;
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 79px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: white;
+}
+
+.box6 {
+    position: relative;
+    top: 40px;
+    left: -755px;
+    border: 2px solid white;
+}
+
+.elon {
+    position: relative;
+    top: 150px;
+    cursor: pointer;
+}
+
+.row9 {
+    width: 1280px;
+    height: 692px;
+    position: relative;
+    top: 200px;
+    display: flex;
+    gap: 29.5px;
+
+
+}
+
+.row10 {
+    width: 407px;
+    height: 692px;
+    position: relative;
+    /* left: 282px; */
+    border: 1px solid gainsboro;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.fa-user {
+    position: relative;
+    top: 50px;
+    left: 30px;
+}
+
+.fa-calendar {
+    position: relative;
+    top: 100px;
+    left: -85px;
+}
+
+.row11 {
+    width: 1280px;
+    height: 692px;
+    position: relative;
+    top: 300px;
+    display: flex;
+    gap: 29.5px;
+}
+
+.row13 {
+    width: 1280px;
+    height: 692px;
+    position: relative;
+    top: 400px;
+    display: flex;
+    gap: 29.5px;
+}
+
+.tw {
+    width: 148px;
+    height: 51px;
+    background-color: #095ACD;
+    position: relative;
+    top: 500px;
+    left: 550px;
+    padding: 15px, 20px, 15px, 20px;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+
+}
+
+.tw p {
+    position: relative;
+    top: 15px;
+    color: white;
+
+}
+
+.odam {
+    width: 1280px;
+    height: 692px;
+    position: relative;
+    top: 650px;
+    display: flex;
+    gap: 29.5px;
+}
+
+.odam1 {
+    width: 625px;
+    height: 301px;
+    position: relative;
+    /* left: 282px; */
+    background-color: #095ACD;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.odam1 h1 {
+    width: 309px;
+    height: 150px;
+    position: relative;
+    top: 80px;
+    left: 30px;
+    color: white;
+
+}
+
+.odam1 img {
+    position: relative;
+    top: -270px;
+    left: 300px;
+}
+
+.futter {
+    width: 1895px;
+    height: 109px;
+    background-color: #095ACD;
+    position: relative;
+    top: 550px;
+    left: -315px;
+
+}
+
+.futter img {
+    position: relative;
+    top: 30px;
+    left: 320px;
+}
+
+.gg p {
+    position: relative;
+    left: 750px;
+    color: white;
+    cursor: pointer;
+}
+
+.gga p {
+    position: relative;
+    top: -18px;
+    left: 950px;
+    color: white;
+    cursor: pointer;
+}
+
+.fa-phone {
+    position: relative;
+    top: -35px;
+    left: 1200px;
+    color: white;
+    cursor: pointer;
+
+}
+
+.fa-phone p {
+    position: relative;
+    top: -15px;
+    left: 30px;
+    cursor: pointer;
+}
+
+.c1 {
+    width: 90px;
+    height: 20px;
+    position: relative;
+    top: -70px;
+    left: 1486px;
+    display: flex;
+    gap: 20px;
+
+}
+
+.c2 a {
+    cursor: pointer;
+    color: white;
+    
+}
